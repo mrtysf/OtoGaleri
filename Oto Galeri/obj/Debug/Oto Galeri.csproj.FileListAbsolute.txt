@@ -1,0 +1,55 @@
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe.config
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.pdb
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Form1.resources
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Properties.Resources.resources
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.GenerateResource.Cache
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.exe
+c:\users\murat\documents\visual studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.pdb
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\Oto Galeri\Oto Galeri\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Form2.resources
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Anasayfakontrol.resources
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Otomobilkontrol.resources
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Musterikontrol.resources
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Documents\Visual Studio 2017\Projects\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Satiskontrol.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe.config
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.pdb
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Anasayfakontrol.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Form_Giris.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Form_Home.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.KayitlarKontrol.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Musterikontrol.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Otomobilkontrol.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Properties.Resources.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Satiskontrol.resources
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.GenerateResource.cache
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.CoreCompileInputs.cache
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.CopyComplete
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.exe
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.pdb
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csprojAssemblyReference.cache
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.dll
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.xml
+C:\Users\Merhaba\Desktop\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe.config
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.pdb
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.dll
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.xml
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Anasayfakontrol.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Form_Giris.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Form_Home.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.KayitlarKontrol.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Musterikontrol.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Otomobilkontrol.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Properties.Resources.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Satiskontrol.resources
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.exe
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.pdb
+C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csprojResolveAssemblyReference.cache
