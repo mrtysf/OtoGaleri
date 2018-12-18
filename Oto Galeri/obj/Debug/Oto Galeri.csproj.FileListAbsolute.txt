@@ -53,3 +53,22 @@ C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Ot
 C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.exe
 C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.pdb
 C:\Users\Murat\Desktop\sonGaleri\Yeni klasör\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\bin\Debug\Oto Galeri.exe.config
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\bin\Debug\Oto Galeri.exe
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\bin\Debug\Oto Galeri.pdb
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\bin\Debug\EntityFramework.dll
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\bin\Debug\EntityFramework.xml
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto Galeri.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.Anasayfakontrol.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.Form_Giris.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.Form_Home.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.KayitlarKontrol.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.Musterikontrol.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.Otomobilkontrol.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.Properties.Resources.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto_Galeri.Satiskontrol.resources
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto Galeri.csproj.GenerateResource.Cache
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto Galeri.exe
+C:\Users\Murat\Documents\GitHub\OtoGaleri\Oto Galeri\obj\Debug\Oto Galeri.pdb

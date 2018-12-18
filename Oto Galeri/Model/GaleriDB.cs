@@ -8,7 +8,7 @@
     public partial class GaleriDB : DbContext
     {
         public GaleriDB()
-            : base("name=GaleriDB1")
+            : base("name=GaleriDB")
         {
         }
 
